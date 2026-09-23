@@ -272,3 +272,16 @@ footer .foot-item{
     background-color: lightpink;
     border: 5px solid navy;
 }
+
+#saved-events h2{
+    text-align: center;
+    background-color: aliceblue;
+    color: navy;
+    border-bottom: 2px solid navy;
+}
+
+#saved-events h3{
+    color: lightpink;
+    border-bottom: 2px solid navy;
+    width: fit-content
+}
