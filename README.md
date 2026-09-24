@@ -17,6 +17,8 @@ I used Flexbox in multiple areas as well.
 I used it in the Footer to evenly spread the boxes on the bottom of the page. I also allows them to move when the area of the screen grows or shrinks. 
 It was used in the related events in the events page as well to allow the boxes to wrap when the screen becomes small. 
 
+I added JavaScript to allow users to add events that they want to attend into a saved events category. 
+
 
 Responsive Design:
 The first responsive design element that I used was for the Hero page. When the width is greater than or equal to 600px, the background picture's size stays at 1500px. However, when it is less, it's size is cover so it can move with the page. 
@@ -24,6 +26,8 @@ The first responsive design element that I used was for the Hero page. When the 
 The second I used was the event layout in the Main content and sidebar section. When the screen is less than 900px, the Event Details section goes under the About Event section. When the screen is larger than 900px, they go beside one another. 
 
 These were tested by implementing the design and resizing the browser to see how the page reacts. I also created the link on git hub and pulled up the pages on my phone to test the differences. 
+
+In the Upcoming Events Section, when you click on the add event button, it highlights the box. You can also remove the card from the section. 
 
 
 Semantic HTML:
