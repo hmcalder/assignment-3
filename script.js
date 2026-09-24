@@ -1,3 +1,6 @@
+"use strict";
+
+
 //selecting the event boxes in the html
 const events = document.querySelectorAll(".events");     //finding all the events in .index and not just one 
 
